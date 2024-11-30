@@ -7,3 +7,5 @@
 
 ## Gravando mudanças no repositório
 ##Salvando modificações
+
+* comando git push
